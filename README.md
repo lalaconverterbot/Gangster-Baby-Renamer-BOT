@@ -40,8 +40,8 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+<a href="https://render.com/deploy?template=https://render.com/LazyDeveloperr/Gangster-Baby-Renamer-BOT">
+  <img src="https://www.render.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
@@ -59,7 +59,7 @@
  - Has a custom Start-up pic.
  - Force subscribe available.
  - Supports ulimited renaming at a time.
- - Deploy to Koyeb + Heroku + Railway.
+ - Deploy to Koyeb + Render + Railway.
  - Developer Service 24x7. 🔥
 
 ### 🚦 Commands
@@ -88,8 +88,8 @@
 
 
 #### 🧡 Respecting... 🧡
-- [🔥 LazyDeveloperr](https://github.com/LazyDeveloperr) 
-- [🔥 Pyrogram](https://github.com/pyrogram/pyrogram)
+- [🔥 LazyDeveloperr](https://render.com/LazyDeveloperr) 
+- [🔥 Pyrogram](https://render.com/pyrogram/pyrogram)
 
 ### ❤️ Thanking 😘
 - 🤩 Thank You [Team-Pyro](https://github.com/TEAM-PYRO-BOTZ) For this awesome src 😘
